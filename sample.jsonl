@@ -1,0 +1,10 @@
+{"prompt": "<task> DepartmentQA: Can you tell me the name of the institution? </s>", "target": "The institution is called Sri Vasavi Engineering College."}
+{"prompt": "<task> DepartmentQA: Where is the college located? </s>", "target": "It is located in Tadepalligudem, Andhra Pradesh, India."}
+{"prompt": "<task> DepartmentQA: Where is the college located exactly? </s>", "target": "The precise location of the college is Pedatadepalli, Tadepalligudem, West Godavari, Andhra Pradesh, India - 534101."}
+{"prompt": "<task> DepartmentQA: Which university is the college affiliated with? </s>", "target": "It has an affiliation with Jawaharlal Nehru Technological University (JNTU)."}
+{"prompt": "<task> DepartmentQA: What accreditation does the college hold? </s>", "target": "The college is accredited with NAAC 'A' Grade and has NBA Accreditation."}
+{"prompt": "<task> DepartmentQA: What is the website of the college? </s>", "target": "The college's website can be found at https://srivasaviengg.ac.in/"}
+{"prompt": "<task> DepartmentQA: What is the college's contact number? </s>", "target": "The contact number for the college is 08818-284355."}
+{"prompt": "<task> DepartmentQA: Who is the head of the Computer Science department? </s>", "target": "Dr. D. Jaya Kumari is the head of the Computer Science department."}
+{"prompt": "<task> DepartmentQA: Who is the Professor and Dean (R&D)? </s>", "target": "Dr. V. S. Naresh serves as the Professor and Dean of Research and Development."}
+{"prompt": "<task> DepartmentQA: What is the email address of the principal at Sri Vasavi Engineering College? </s>", "target": "The email address for the principal is principal@srivasaviengg.ac.in."}
