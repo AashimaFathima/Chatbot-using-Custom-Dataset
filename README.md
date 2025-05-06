@@ -14,7 +14,7 @@ This project features a multilingual chatbot trained with data in Hindi, English
 
 ## 🚀 Getting Started  
 1. Open the Google Colab notebook using the following link:
-   - [Chatbot Colab Notebook](https://colab.research.google.com/drive/1S48XvO5IoUBHUBLIv56x0AN-uZhVOauv?authuser=1#scrollTo=jLXdvwm4alel)
+   - [Chatbot Colab Notebook](https://colab.research.google.com/drive/1S48XvO5IoUBHUBLIv56x0AN-uZhVOauv?usp=sharing)
 2. Install the required dependencies by running the cell in the first section of the notebook.
    *Note: The necessary packages are listed in the notebook itself in the first cell. You don't need to install anything manually unless you face an issue.*
 3. Run all cells to preprocess the sample data, fine‑tune on the demo set, and execute tests.
