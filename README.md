@@ -21,7 +21,7 @@ This project features a multilingual chatbot trained with data in Hindi, English
 
 ## 🛠️ Data Configuration  
 - **Private Dataset**: 3,000 examples (not included).  
-- **Sample Dataset**: 10 examples in `sample_data/sample.jsonl` to showcase format.
+- **Sample Dataset**: 10 examples in `sample.jsonl` to showcase format.
 
 ## 🔄 Notebook Contents   
 - **Training**: LoRA‑based fine‑tuning on the sample dataset (FP16, gradient checkpointing).  
